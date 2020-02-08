@@ -1,0 +1,16 @@
+/*
+
+!.gitignore
+!README.md
+!wp-content/
+!wp-content/**
+
+wp-content/*
+
+!wp-content/themes/
+!wp-content/themes/**
+
+wp-content/themes/*
+
+!wp-content/themes/snth/
+!wp-content/themes/snth/**
